@@ -1,2 +1,2 @@
 # 啟動程式
-docker-compose -f docker-compose.dev.yml up web
+使用dev container 在容器中開啟
