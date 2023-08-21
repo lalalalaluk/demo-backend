@@ -1,0 +1,3 @@
+Django
+psycopg2 # 資歷庫連線套件
+django-environ # 環境變數套件
